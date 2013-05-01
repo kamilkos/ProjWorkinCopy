@@ -15,13 +15,13 @@ Wczytywacz plików:
 	-mo¿liwa zamiana separatorów, wybór kolumn w txt/csv
 	-mo¿liwe wyciêcie fragmentu z wczytanego pliku i zapisanie osobno
 	
-	
-SignalStorage:
 	Reads:
 		-.txt
 		-.csv
 		-.hea(physionet)
 	
+	
+SignalStorage:	
 	Stores:
 		-signals
 			-MainReadedSignal
