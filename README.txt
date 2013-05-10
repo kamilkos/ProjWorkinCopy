@@ -3,22 +3,23 @@
 	
 	
 TODO:
-	Wczytywacz plików SignalStorage(simple Event window);
-	Ustawiacz opcji analizy(simple Event window  or  cluster Pane in mainApp?);
-	Analizator ();
-	MainApp ();
-	Podglądacz wyników (simple Event window);
+	Wczytywacz plików SignalStorage(simple Event window); 0.9 done
+	Ustawiacz opcji analizy(simple Event window  or  cluster Pane in mainApp?); done
+	Analizator (); 0.9 done
+	MainApp (); 0.9 done
+	Podglądacz wyników (simple Event window); done
 	
 	
 Wczytywacz plików:
 	Czytanie plików
 	-możliwa zamiana separatorów wybór kolumn w txt/csv
-	-możliwe wycięcie fragmentu z wczytanego pliku i zapisanie osobno
+	-możliwe wycięcie fragmentu z wczytanego pliku i zapisanie osobno OK
+	-sygnał syntetyczny OK
 	
 	Reads:
 		-.txt
 		-.csv
-		-.hea(physionet)
+		-.hea(physionet) OK
 	
 	
 SignalStorage:	OK
