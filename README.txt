@@ -21,7 +21,7 @@ Wczytywacz plików:
 		-.hea(physionet)
 	
 	
-SignalStorage:	
+SignalStorage:	OK
 	Stores:
 		-signals
 			-name
