@@ -3,7 +3,7 @@
 	
 	
 TODO:
-	Wczytywacz plików SignalStorage(simple Event window); 0.9 done
+	Wczytywacz plików SignalStorage(simple Event window); done
 	Ustawiacz opcji analizy(simple Event window  or  cluster Pane in mainApp?); done
 	Analizator (); 0.9 done
 	MainApp (); 0.9 done
@@ -12,7 +12,7 @@ TODO:
 	
 Wczytywacz plików:
 	Czytanie plików
-	-możliwa zamiana separatorów wybór kolumn w txt/csv
+	-możliwa zamiana separatorów wybór kolumn w txt/csv OK
 	-możliwe wycięcie fragmentu z wczytanego pliku i zapisanie osobno OK
 	-sygnał syntetyczny OK
 	
@@ -32,7 +32,7 @@ SignalStorage:	OK
 			
 Analizator:
 	Analiza wybranego sygnału za pomocą wybranych (rodzin)falek i poziomów dekompozycji
-		-każdy zapisywany jako sygnał
+		-każdy zapisywany jako sygnał OK
 	
 //Jeżeli zostanie czasu:
 	Poszukiwanie w detalach/aproksymacji, w zgrubnie wyznaczonych miejscach:
