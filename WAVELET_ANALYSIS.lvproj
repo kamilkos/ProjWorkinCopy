@@ -21,6 +21,9 @@
 		<Item Name="Analysis" Type="Folder" URL="../Analysis">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="Control" Type="Folder" URL="../Control">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
 		<Item Name="PhysionetSignalReader" Type="Folder" URL="../PhysionetSignalReader">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
